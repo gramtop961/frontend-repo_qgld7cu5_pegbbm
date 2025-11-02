@@ -3,7 +3,7 @@ import { Sparkles, Shield, PenTool } from 'lucide-react';
 
 export default function Header() {
   return (
-    <header className="fixed inset-x-0 top-0 z-50 backdrop-blur-md/50">
+    <header className="fixed inset-x-0 top-0 z-50 backdrop-blur-md bg-black/30">
       <div className="mx-auto max-w-7xl px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
